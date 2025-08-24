@@ -13,7 +13,6 @@ const Landing = () => {
   return (
     <div>
       <h2 className='title'>Andromeda</h2>
-
       <ul className='nav'>
         <li>features</li>
         <li>pricing</li>
